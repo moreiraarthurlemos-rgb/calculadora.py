@@ -7,6 +7,3 @@ Calculadora simples feita em Python que realiza as 4 operações básicas: soma,
 2. Digite os dois números
 3. Escolha a operação desejada (1 a 4)
 4. Veja o resultado no terminal
-
-## Tecnologias
-- Python 3
